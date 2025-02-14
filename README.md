@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Kotlin's `map` function when working with nullable types. The code in `bug.kt` shows that a `NullPointerException` can occur if the list contains null values. The `bugSolution.kt` file demonstrates solutions to this problem.
